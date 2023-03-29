@@ -332,94 +332,94 @@ function charCheck() {
 
 function upperLowerCase() {
     let num = prompt("Enter chracter")
-    if (num == "a" ) {
+    if (num == "a") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "b" ) {
+    else if (num == "b") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "c" ) {
+    else if (num == "c") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "d" ) {
+    else if (num == "d") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "e" ) {
+    else if (num == "e") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "f" ) {
+    else if (num == "f") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "g" ) {
+    else if (num == "g") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "h" ) {
+    else if (num == "h") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "i" ) {
+    else if (num == "i") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "j" ) {
+    else if (num == "j") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "k" ) {
+    else if (num == "k") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "l" ) {
+    else if (num == "l") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "m" ) {
+    else if (num == "m") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "n" ) {
+    else if (num == "n") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "o" ) {
+    else if (num == "o") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "p" ) {
+    else if (num == "p") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "q" ) {
+    else if (num == "q") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "r" ) {
+    else if (num == "r") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "s" ) {
+    else if (num == "s") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "t" ) {
+    else if (num == "t") {
         alert("")
     }
-    else if (num == "u" ) {
+    else if (num == "u") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "v" ) {
+    else if (num == "v") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "w" ) {
+    else if (num == "w") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "x" ) {
+    else if (num == "x") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "y" ) {
+    else if (num == "y") {
         alert("This chracter is in lowercase")
     }
-    else if (num == "z" ) {
+    else if (num == "z") {
         alert("This chracter is in lowercase")
     }
     else if (num == "A") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "B") {
+    else if (num == "B") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "C") {
+    else if (num == "C") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "D") {
+    else if (num == "D") {
         alert("This chracter is in Uppercase")
     }
     else if (num == "E") {
@@ -428,31 +428,31 @@ function upperLowerCase() {
     else if (num == "F") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "G") {
+    else if (num == "G") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "H") {
+    else if (num == "H") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "I") {
+    else if (num == "I") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "J") {
+    else if (num == "J") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "K") {
+    else if (num == "K") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "L") {
+    else if (num == "L") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "M") {
+    else if (num == "M") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "N") {
+    else if (num == "N") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "O") {
+    else if (num == "O") {
         alert("This chracter is in Uppercase")
     }
     else if (num == "P") {
@@ -461,19 +461,19 @@ function upperLowerCase() {
     else if (num == "Q") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "R") {
+    else if (num == "R") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "S") {
+    else if (num == "S") {
         alert("This chracter is in Uppercase")
     }
     else if (num == "T") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "U") {
+    else if (num == "U") {
         alert("This chracter is in Uppercase")
     }
-    else if ( num == "V") {
+    else if (num == "V") {
         alert("This chracter is in Uppercase")
     }
     else if (num == "W") {
@@ -496,27 +496,27 @@ function upperLowerCase() {
 
 
 
-function weekPrint(){
-    let num =+ prompt("Input day number")
-    if(num == 1){
+function weekPrint() {
+    let num = + prompt("Input day number")
+    if (num == 1) {
         alert("Monday")
     }
-    else if(num == 2){
+    else if (num == 2) {
         alert("Tuesday")
     }
-    else if(num ==3 ){
+    else if (num == 3) {
         alert("Wednesday")
     }
-    else if(num ==4 ){
+    else if (num == 4) {
         alert("Thursday")
     }
-    else if(num == 5){
+    else if (num == 5) {
         alert("Friday")
     }
-    else if(num ==6 ){
+    else if (num == 6) {
         alert("Saturday")
     }
-    else if(num == 7){
+    else if (num == 7) {
         alert("sunday")
     }
     else {
@@ -526,42 +526,42 @@ function weekPrint(){
 
 
 
-function monthCheck(){
-    let num =+ prompt("Input day number")
-    if(num == 1){
+function monthCheck() {
+    let num = + prompt("Input day number")
+    if (num == 1) {
         alert("This month has 31 day")
     }
-    else if(num == 2){
+    else if (num == 2) {
         alert("This month has 28 day")
     }
-    else if(num ==3 ){
+    else if (num == 3) {
         alert("This month has 31 day")
     }
-    else if(num ==4 ){
+    else if (num == 4) {
         alert("This month has 30 day")
     }
-    else if(num == 5){
+    else if (num == 5) {
         alert("This month has 31 day")
     }
-    else if(num ==6 ){
+    else if (num == 6) {
         alert("This month has 30 day")
     }
-    else if(num == 7){
+    else if (num == 7) {
         alert("This month has 31 day")
     }
-    else if(num == 8){
+    else if (num == 8) {
         alert("This month has 31 day")
     }
-    else if(num == 9){
+    else if (num == 9) {
         alert("This month has 30 day")
     }
-    else if(num == 10){
+    else if (num == 10) {
         alert("This month has 31 day")
     }
-    else if(num == 11){
+    else if (num == 11) {
         alert("This month has 30 day")
     }
-    else if(num == 12){
+    else if (num == 12) {
         alert("This month has 31 day")
     }
     else {
@@ -571,23 +571,23 @@ function monthCheck(){
 
 
 
-function noteCheck(){
+function noteCheck() {
 
 }
-    
 
 
-function angleCheck(){
-    let angle1 =+ prompt("Enter first angle")
-    let angle2 =+ prompt("Enter second angle")
-    let angle3 =+ prompt("Enter third angle")
-    let sum = angle1 +angle2 +angle3
 
-    if(sum==180){
+function angleCheck() {
+    let angle1 = + prompt("Enter first angle")
+    let angle2 = + prompt("Enter second angle")
+    let angle3 = + prompt("Enter third angle")
+    let sum = angle1 + angle2 + angle3
+
+    if (sum == 180) {
         alert("Triangle is valid")
 
     }
-    else{
+    else {
         alert("Triangle is invalid")
     }
 
@@ -595,34 +595,34 @@ function angleCheck(){
 
 
 
-function triangleCheck(){
-    let side1 =+ prompt("Enter perpendicular side")
-    let side2 =+ prompt("Enter base side")
-    let side3 =+ prompt("Enter hypotenuse side")
-    let per =side1*side1
-    let base =side2*side2           
-    let hyp =side3*side3
-    if(per + base == hyp){
+function triangleCheck() {
+    let side1 = + prompt("Enter perpendicular side")
+    let side2 = + prompt("Enter base side")
+    let side3 = + prompt("Enter hypotenuse side")
+    let per = side1 * side1
+    let base = side2 * side2
+    let hyp = side3 * side3
+    if (per + base == hyp) {
         alert("Triangle is valid")
 
     }
-    else{
+    else {
         alert("Triangle is invalid")
     }
 
 }
 
 
-function triangle(){
-    let angle1 =+ prompt("Enter first angle")
-    let angle2 =+ prompt("Enter second angle")
-    let angle3 =+ prompt("Enter third angle")
+function triangle() {
+    let angle1 = + prompt("Enter first side")
+    let angle2 = + prompt("Enter second side")
+    let angle3 = + prompt("Enter third side")
 
-    if(angle1==angle2 && angle1==angle3){
-        alert("This is equilateral triangle")  
+    if (angle1 == angle2 && angle1 == angle3) {
+        alert("This is equilateral triangle")
 
     }
-    else if(angle1==angle2 || angle2==angle3 || angle1==angle3){
+    else if (angle1 == angle2 || angle2 == angle3 || angle1 == angle3) {
         alert("This is isosceles triangle")
     }
     else {
@@ -635,24 +635,117 @@ function triangle(){
 
 
 
-function quadratic(){
+function quadratic() {
 
 }
 
 
 
 
-function profitLoss(){
+function profitLoss() {
     let orignalPrice = + prompt("Enter original price of product")
     let sellPrice = + prompt("Enter sell price of product")
     let profitLoss = sellPrice - orignalPrice
-    if(profitLoss > 0){
-        alert("You have profit ")
+    if (profitLoss > 0) {
+        alert("You have profit " + profitLoss)
     }
-    else if(profitLoss < 0){
-        alert("You have loss")
+    else if (profitLoss < 0) {
+        alert("You have loss " + profitLoss)
     }
-    else{
+    else {
         alert("You are neither benefited nor harmed")
+    }
+}
+
+
+
+function percentageCheck() {
+    let phy = + prompt("Enter the marks of Physics")
+    let chem = + prompt("Enter the marks of Chemistry")
+    let bio = + prompt("Enter the marks of Biology ")
+    let math = + prompt("Enter the marks of Mathematics")
+    let comp = + prompt("Enter the marks of Computer")
+    let total = + prompt("Enter total marks")
+    let obtain = phy + chem + bio + math + comp
+    let devision = obtain / total 
+    let per = devision * 100
+    if(obtain > total){
+        alert("Enter right number and total")
+    }
+    else if (per >= 90) {
+        alert("Grade A")
+    }
+    else if (per >= 80) {
+        alert("Grade B")
+    }
+    else if (per >= 70) {
+        alert("Grade C")
+    }
+    else if (per >= 60) {
+        alert("Grade d")
+    }
+    else if (per >= 40) {
+        alert("Grade E")
+    }
+    else if (per < 40) {
+        alert("Grade F")
+    }
+    else {
+        alert("Enter right number and total")
+    }
+
+}
+
+
+
+function salaryCheck() {
+    let salary = + prompt("Enter salary")
+    if (salary <= 10000) {
+        let HRA = salary * 20 / 100
+        let DA = salary * 80 / 100
+        let grossSalary = salary + HRA + DA
+        alert("Gross salary is " + grossSalary)
+    }
+    else if (salary <= 20000) {
+        let HRA = salary * 25 / 100
+        let DA = salary * 90 / 100
+        let grossSalary = salary + HRA + DA
+        alert("Gross salary is " + grossSalary)
+    }
+    else if (salary > 20000) {
+        let HRA = salary * 30 / 100
+        let DA = salary * 95 / 100
+        let grossSalary = salary + HRA + DA
+        alert("Gross salary is " + grossSalary)
+    }
+
+}
+
+
+function unitCheck() {
+    let unit = + prompt("Enter Units")
+    if (unit <= 50) {
+        let bill = unit * 0.50
+        let total = bill * 20 / 100          
+        let grandTotal = bill + total
+        alert("Your bill is " + grandTotal)
+    }
+    else if (unit <= 100) {
+        let bill = unit * 0.75
+        let total = bill * 20 / 100
+        let grandTotal = bill + total
+        alert("Your bill is " + grandTotal)
+    }
+    else if (unit <= 250) {
+        let bill = unit * 1.20
+        let total = bill * 20 / 100
+        let grandTotal = bill + total
+        alert("Your bill is " + grandTotal)
+    }
+    else if (unit > 250) {
+        let bill = unit * 1.50
+        let total = bill * 20 / 100
+        let grandTotal = bill + total
+        alert("Your bill is " + grandTotal)
     }
 }
